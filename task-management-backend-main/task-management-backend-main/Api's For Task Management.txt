@@ -1,0 +1,17 @@
+To Create A Task:
+http://localhost:4000/create
+
+To Get All Tasks:
+http://localhost:4000/all
+
+To Get Completed Tasks:
+http://localhost:4000/complete
+
+To Get Incompleted Tasks:
+http://localhost:4000/incomplete
+
+To Update Task:
+http://localhost:4000/update/_id ====> id of task from mongodb 
+
+To Delete Task:
+http://localhost:4000/delete/_id ====> id of task from mongodb 
